@@ -1,0 +1,2 @@
+Prefix plugins/BAMSort/example/
+Plugin BAMSort inputfile alignment.bam outputfile alignment_sorted.bam
